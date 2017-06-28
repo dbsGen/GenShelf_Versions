@@ -1,10 +1,12 @@
 {
 	"android": {
 		"version": "3.0",
-		"url": "https://dl.testfairy.com/download/6MWKCE1R60SJTC1D7A8QYHNX84C9C6F385Y7Y0DG2TT0PB8Z/gs_3.0.6-testfairy.apk"
+		"url": "https://dl.testfairy.com/download/6MWKCE1R60SJTC1D7A8QYHNX84C9C6F385Y7Y0DG2TT0PB8Z/gs_3.0.6-testfairy.apk",
+		"des": ""
 	},
 	"ios": {
 		"version": "2.01",
-		"url": "https://tsfr.io/zjJN54"
+		"url": "https://tsfr.io/zjJN54",
+		"des": ""
 	}
 }
