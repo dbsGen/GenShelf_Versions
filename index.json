@@ -1,12 +1,12 @@
 {
 	"android": {
-		"version": "3.2",
-		"url": "https://dl.testfairy.com/download/6MWKJD9P6MVJTC1D9HGHNHRCTVQZDVKMN0Z2VQBCSEK0J9VA/gs_3.2-testfairy.apk",
-		"des": "+ KuKudm"
+		"version": "3.3",
+		"url": "https://dl.testfairy.com/download/6RR30C9M6CW2TC1DAA8NR7N5V2RKGWAQBMTY6VFXPJC954PT/gs_3.3-testfairy.apk",
+		"des": "* Fixed a crash bug. display navbar when change chapter in view controller."
 	},
 	"ios": {
-		"version": "2.3",
+		"version": "3.3",
 		"url": "https://tsfr.io/zjJN54",
-		"des": "+ KuKudm"
+		"des": "* display navbar when change chapter in view controller."
 	}
 }
