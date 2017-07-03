@@ -1,7 +1,7 @@
 {
 	"android": {
 		"version": "3.4",
-		"url": "https://dl.testfairy.com/download/6RR30C9M6CW2TC1DAA8NR7N5V2RKGWAQBMTY6VFXPJC954PT/gs_3.3-testfairy.apk",
+		"url": "https://github.com/dbsGen/GenShelf_Versions/raw/master/android/gs_3.4.apk",
 		"des": "* 修复了一个在藏书馆有更新时点设置会崩溃的Bug.<p>+ 藏书馆更新时可以会有更新提示。<p>* ruby脚本继承c++时的bug."
 	},
 	"ios": {
