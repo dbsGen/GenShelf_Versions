@@ -5,8 +5,8 @@
 		"des": "* 修复了一个在藏书馆有更新时点设置会崩溃的Bug.<p>+ 藏书馆更新时可以会有更新提示。<p>* ruby脚本继承c++时的bug."
 	},
 	"ios": {
-		"version": "3.3",
+		"version": "3.4",
 		"url": "https://tsfr.io/zjJN54",
-		"des": "* display navbar when change chapter in view controller."
+		"des": "+ 藏书馆更新时可以会有更新提示。<p>* ruby脚本继承c++时的bug."
 	}
 }
