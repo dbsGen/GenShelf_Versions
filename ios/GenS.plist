@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://github.com/dbsGen/GenShelf_Versions/raw/master/ios/GenS3.4.ipa</string>
+	<key>display-image</key>
+	<string>https://github.com/dbsGen/GenShelf_Versions/raw/master/ios/icon_58.png</string>
+	<key>bundle-identifier</key>
+	<string>cn.gen.GenS</string>
+	<key>bundle-version</key>
+	<string>3.4</string>
+	<key>title</key>
+	<string>gen_shelf</string>
+</dict>
+</plist>
