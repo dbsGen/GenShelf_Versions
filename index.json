@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.5",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.5.apk",
-		"des": "* 修复当退回后台过久后打开会崩溃的Bug.<p>+ 关注功能。<p>+ 缓存管理功能."
+		"version": "3.6",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.6.apk",
+		"des": "+ 上回看到哪里.<p>+ 记录上次页数.<p>+ 极速漫画"
 	},
 	"ios": {
 		"version": "3.4",
