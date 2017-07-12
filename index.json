@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.6",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.6.1.apk",
-		"des": "+ 上回看到哪里.<p>+ 记录上次页数.<p>+ 极速漫画"
+		"version": "3.7",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.7.apk",
+		"des": "+ ex绅士的支持.<p>+ 通过脚本可以在设置中添加按钮，并发生交互.<p>* 修复bug"
 	},
 	"ios": {
 		"version": "3.4",
