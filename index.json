@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.7",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.7.apk",
-		"des": "+ ex绅士的支持.<p>+ 通过脚本可以在设置中添加按钮，并发生交互.<p>* 修复bug"
+		"version": "3.7.2",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.7.2.apk",
+		"des": "* 最后一页无法拖动.<p>* 对动漫之家的支持"
 	},
 	"ios": {
 		"version": "3.4",
