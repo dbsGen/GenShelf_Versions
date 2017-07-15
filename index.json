@@ -1,7 +1,7 @@
 {
 	"android": {
-		"version": "3.7.2",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.7.2.apk",
+		"version": "3.7.3",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.7.3.apk",
 		"des": "* 最后一页无法拖动.<p>* 对动漫之家的支持"
 	},
 	"ios": {
