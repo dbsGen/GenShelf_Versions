@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.7.2",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.7.2.apk",
-		"des": "* 内存溢出导致的崩溃。"
+		"version": "3.8.1",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.8.1.apk",
+		"des": "* 修复某些机器开启会崩溃的问题。"
 	},
 	"ios": {
 		"version": "3.4",
