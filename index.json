@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.8",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.7.3.apk",
-		"des": "+ 下载进程页面<p>* 修复收藏时回出现的bug。"
+		"version": "3.8.1",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.8.1.apk",
+		"des": "* 修复某些机器开启会崩溃的问题。"
 	},
 	"ios": {
 		"version": "3.4",
