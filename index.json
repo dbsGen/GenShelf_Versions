@@ -5,8 +5,8 @@
 		"des": "* 修复bug。<p>* 收藏的某种情况下页数颠倒的问题。 <p>* 网络差的时候请求完全停止的问题。"
 	},
 	"ios": {
-		"version": "3.4",
+		"version": "3.8",
 		"url": "https://dbsgen.github.io/GenShelf_Versions/ios",
-		"des": "+ 藏书馆更新时可以会有更新提示。<p>* ruby脚本继承c++时的bug."
+		"des": "*  更新支持的书架版本."
 	}
 }
