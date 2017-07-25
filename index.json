@@ -5,8 +5,8 @@
 		"des": "* 修复bug。<p>* 收藏的某种情况下页数颠倒的问题。 <p>* 网络差的时候请求完全停止的问题。"
 	},
 	"ios": {
-		"version": "3.8",
+		"version": "3.8.1",
 		"url": "https://dbsgen.github.io/GenShelf_Versions/ios",
-		"des": "*  更新支持的书架版本."
+		"des": "*  修复ehentai设置崩溃的bug."
 	}
 }
