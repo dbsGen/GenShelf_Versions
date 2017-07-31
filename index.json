@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.8.2",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.8.2.apk",
-		"des": "* 修复bug。<p>* 收藏的某种情况下页数颠倒的问题。 <p>* 网络差的时候请求完全停止的问题。"
+		"version": "3.9",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.apk",
+		"des": "+ 绅士社交场。<p>+ 点击翻页。 <p>* 修复bug。"
 	},
 	"ios": {
 		"version": "3.8.1",
