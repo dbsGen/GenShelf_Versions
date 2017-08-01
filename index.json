@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.apk",
-		"des": "+ 绅士社交场。<p>+ 点击翻页。 <p>* 修复bug。"
+		"version": "3.9.1",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.1.apk",
+		"des": "* 绅士社交场下啦刷行失效.<p>* 某黑XX的帖子打开崩溃的问题。"
 	},
 	"ios": {
 		"version": "3.8.1",
