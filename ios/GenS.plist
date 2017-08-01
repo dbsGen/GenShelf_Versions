@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>cn.gen.GenS</string>
 				<key>bundle-version</key>
-				<string>3.8</string>
+				<string>3.8.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
