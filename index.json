@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9.2",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.2.apk",
-		"des": "* 绅士社交场下啦刷行失效.<p>* 某黑XX的帖子打开崩溃的问题。"
+		"version": "3.9.3",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.3.apk",
+		"des": "+ 绅士社交场显示本子封面。<p>+ 欢迎页面。<p>- 程序体积，因为把库放到服务器上了，第一次进入会下载动态库，不过因为现在只需要下载自己平台的动态库，其实下载大小总体来说也是有减少的。<p>* 点击翻页现在在长图的情况下会优先滑动图片，到底后点击才会翻页。<p>+ 浏览页面可以选择横竖屏."
 	},
 	"ios": {
 		"version": "3.8.1",
