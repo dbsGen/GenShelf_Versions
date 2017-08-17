@@ -5,8 +5,8 @@
 		"des": "昨天加入了崩溃记录确实收到不少崩溃信息，希望这次更新能有帮助。<p>* 4.2版本某些地方的崩溃<p>* 优化内存使用"
 	},
 	"ios": {
-		"version": "3.8.1",
+		"version": "3.8.2",
 		"url": "https://dbsgen.github.io/GenShelf_Versions/ios",
-		"des": "*  修复ehentai设置崩溃的bug."
+		"des": "*  更新证书."
 	}
 }
