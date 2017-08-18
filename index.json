@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9.5",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.5.apk",
-		"des": "昨天加入了崩溃记录确实收到不少崩溃信息，希望这次更新能有帮助。<p>* 4.2版本某些地方的崩溃<p>* 优化内存使用"
+		"version": "3.9.6",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.6.apk",
+		"des": "+ uu漫画的支持 <p>* bug 修复"
 	},
 	"ios": {
 		"version": "3.8.2",
