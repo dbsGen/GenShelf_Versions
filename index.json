@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9.6",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.6.apk",
-		"des": "+ uu漫画的支持 <p>* bug 修复"
+		"version": "3.9.7",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.7.apk",
+		"des": "* 解决浏览页面右上角崩溃<p>* 解决exhentai右上角崩溃的问题<p>* kuku漫画不能浏览的问题<p>* 修复下载时的bug，下载页面会显示已下载和总量"
 	},
 	"ios": {
 		"version": "3.8.2",
