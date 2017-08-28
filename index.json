@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9.8",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.7.apk",
-		"des": "* 修复内存泄漏<p>+ 可以导出图片到相册"
+		"version": "3.9.9",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.9.apk",
+		"des": "+ 绅士的历史<p>+ 浏览页面会预加载图片。<p>+ 浏览页面添加下拉刷新.<p>* UI颜色变化."
 	},
 	"ios": {
 		"version": "3.8.3",
