@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9.10",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.10.apk",
-		"des": "* 修复dmzj不显示封面的问题。<p>+ 绅士的历史<p>+ 浏览页面会预加载图片。<p>+ 浏览页面添加下拉刷新.<p>* UI颜色变化."
+		"version": "3.9.11",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.11.apk",
+		"des": "* 关注失败的问题<p>* 关注和历史乱序的问题<p>+ 收藏下载完成后可以导出zip文件"
 	},
 	"ios": {
 		"version": "3.8.3",
