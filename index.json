@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9.11",
+		"version": "3.9.12",
 		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.11.apk",
-		"des": "* 关注失败的问题<p>* 关注和历史乱序的问题<p>+ 收藏下载完成后可以导出zip文件"
+		"des": "* 浏览界面下拉有时候异常的bug.<p>* ex绅士登陆老是显示No cookies."
 	},
 	"ios": {
 		"version": "3.8.3",
