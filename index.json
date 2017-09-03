@@ -5,8 +5,8 @@
 		"des": "* 浏览界面下拉有时候异常的bug.<p>* ex绅士登陆老是显示No cookies."
 	},
 	"ios": {
-		"version": "3.8.3",
+		"version": "3.8.4",
 		"url": "https://dbsgen.github.io/GenShelf_Versions/ios",
-		"des": "* 支持最新的源."
+		"des": "* 修复e绅士不能访问的问题.<p>+ 添加下载进度页面"
 	}
 }
