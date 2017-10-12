@@ -5,8 +5,8 @@
 		"des": "* 更新服务器已到国内<p>* 修复一个内存泄漏<p>+ 添加搜索历史"
 	},
 	"ios": {
-		"version": "3.8.4",
+		"version": "3.8.5",
 		"url": "https://dbsgen.github.io/GenShelf_Versions/ios",
-		"des": "* 修复e绅士不能访问的问题.<p>+ 添加下载进度页面"
+		"des": "* 更新服务器已到国内<p>+ 添加搜索历史"
 	}
 }
