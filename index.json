@@ -1,8 +1,8 @@
 {
 	"android": {
-		"version": "3.9.12",
-		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.11.apk",
-		"des": "* 浏览界面下拉有时候异常的bug.<p>* ex绅士登陆老是显示No cookies."
+		"version": "3.9.13",
+		"url": "https://dbsgen.github.io/GenShelf_Versions/android/gs_3.9.13.apk",
+		"des": "* 更新服务器已到国内<p>* 修复一个内存泄漏<p>+ 添加搜索历史"
 	},
 	"ios": {
 		"version": "3.8.4",
